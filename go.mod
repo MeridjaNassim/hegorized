@@ -1,3 +1,3 @@
-module github.com/ccssmnn/hego
+module github.com/MeridjaNassim/hegorized
 
-go 1.15
+go 1.19
